@@ -1,6 +1,10 @@
 # Scribbles
 
-![UI Preview](/docs/Ui.png)
+<p align="center">
+  <img src=
+    "https://danielleloh.github.io/ip/Ui.png"
+    alt="ui preview" height="450">
+</p>
 
 Scribbles may be a goldfish, but rest assured, her memory extends far beyond 3 seconds! Scribbles excels at helping you organise your life by keeping track of your tasks and schedules. Free up space in your mind, and allow Scribbles to be the fish friend you need in your life!
 
